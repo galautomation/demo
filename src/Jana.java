@@ -18,6 +18,8 @@ public class Jana {
 		Thread.sleep(2000);
 		//comments for Git
 		
+		//comments for Git in GitHub
+		
 		//move to the button first ("scroll" to the button)
 		WebElement element = driver.findElement(By.cssSelector(".fusion-button-text"));
 		Actions actions = new Actions(driver);
