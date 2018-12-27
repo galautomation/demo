@@ -1,0 +1,34 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.eclipse
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+ 
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/*
+ 
+# Maven
+log/
+target/
+.factorypath
+*.jar
+*.war
+*.ear
+*.class
+/bin
+*.log
+
+# Test
+test-output/*
+allure-results/*
+allure-report/*
+video/*
