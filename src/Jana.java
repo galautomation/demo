@@ -16,6 +16,8 @@ public class Jana {
 		//Click to remove the message
 		driver.findElement(By.cssSelector("#trackMe")).click();
 		Thread.sleep(2000);
+		//comments for Git
+		
 		//move to the button first ("scroll" to the button)
 		WebElement element = driver.findElement(By.cssSelector(".fusion-button-text"));
 		Actions actions = new Actions(driver);
